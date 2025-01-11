@@ -1,0 +1,1 @@
+response = requests.get("https://content.guardianapis.com/search?q=cricket&api-key={api_key}")
